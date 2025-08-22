@@ -57,7 +57,7 @@ SalaMaster é um sistema em linguagem C desenvolvido para gerenciamento simples 
 
 ## 📊 Exemplo de Uso
 
-[exemplo de uso](img/exemploUso.png)
+![exemplo de uso](img/exemploUso.png)
 
 ***
 
