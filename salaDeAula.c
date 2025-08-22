@@ -23,8 +23,8 @@ int main() {
         totalAlunos[i] = 0;
     }
 
-    while(escolha != 0) {
-        printf("                MENU      \n-----------------------------------\n1. Adicionar sala de aula\n2. Adicionar capacidade\n3. Adicionar número de alunos matriculados\n4. Consultar capacidade de uma sala específica\n5. Consultar alunos matriculados em uma sala específica\n6. Consultar todos detalhes de uma sala\n0. SAIR\n----------------------------------\nOpção: ");
+    while(escolha != 7) {
+        printf("                MENU      \n-----------------------------------\n1. Adicionar sala de aula\n2. Adicionar capacidade\n3. Adicionar número de alunos matriculados\n4. Consultar capacidade de uma sala específica\n5. Consultar alunos matriculados em uma sala específica\n6. Consultar todos detalhes de uma sala\n7. SAIR\n----------------------------------\nOpção: ");
         scanf("%d", &escolha);
 
         if(escolha == 1) {
