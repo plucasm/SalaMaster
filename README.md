@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-SalaMaster é um sistema em linguagem C desenvolvido para gerenciamento simples de salas de aula. O sistema permite o cadastro e e consulta de salas, capacidades e quantidade de alunos por sala de forma organizada e intuitiva.
+SalaMaster é um sistema em linguagem C desenvolvido para gerenciamento simples de salas de aula. O sistema permite o cadastro, consulta de salas, capacidades e quantidade de alunos por sala de forma organizada e intuitiva.
 
 ***
 
